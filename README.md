@@ -65,6 +65,81 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ---
 
+<div id="xtls--xray-core"></div>
+
+### XTLS--Xray-core
+
+🔗 [source](https://github.com/XTLS/Xray-core) – [<code><small>v26.3.27</small></code>](https://github.com/XTLS/Xray-core/releases/tag/v26.3.27)
+
+| File | Size | Download |
+|------|------|----------|
+| `Xray-android-amd64.zip` | 20.0 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-android-amd64.zip) |
+| `Xray-android-amd64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-android-amd64.zip.dgst) |
+| `Xray-android-arm64-v8a.zip` | 18.9 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-android-arm64-v8a.zip) |
+| `Xray-android-arm64-v8a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-android-arm64-v8a.zip.dgst) |
+| `Xray-freebsd-32.zip` | 18.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-freebsd-32.zip) |
+| `Xray-freebsd-32.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-freebsd-32.zip.dgst) |
+| `Xray-freebsd-64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-freebsd-64.zip) |
+| `Xray-freebsd-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-freebsd-64.zip.dgst) |
+| `Xray-freebsd-arm32-v7a.zip` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-freebsd-arm32-v7a.zip) |
+| `Xray-freebsd-arm32-v7a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-freebsd-arm32-v7a.zip.dgst) |
+| `Xray-freebsd-arm64-v8a.zip` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-freebsd-arm64-v8a.zip) |
+| `Xray-freebsd-arm64-v8a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-freebsd-arm64-v8a.zip.dgst) |
+| `Xray-linux-32.zip` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-32.zip) |
+| `Xray-linux-32.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-32.zip.dgst) |
+| `Xray-linux-64.zip` | 20.1 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-64.zip) |
+| `Xray-linux-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-64.zip.dgst) |
+| `Xray-linux-arm32-v5.zip` | 19.2 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-arm32-v5.zip) |
+| `Xray-linux-arm32-v5.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-arm32-v5.zip.dgst) |
+| `Xray-linux-arm32-v6.zip` | 19.2 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-arm32-v6.zip) |
+| `Xray-linux-arm32-v6.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-arm32-v6.zip.dgst) |
+| `Xray-linux-arm32-v7a.zip` | 19.2 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-arm32-v7a.zip) |
+| `Xray-linux-arm32-v7a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-arm32-v7a.zip.dgst) |
+| `Xray-linux-arm64-v8a.zip` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-arm64-v8a.zip) |
+| `Xray-linux-arm64-v8a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-arm64-v8a.zip.dgst) |
+| `Xray-linux-loong64.zip` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-loong64.zip) |
+| `Xray-linux-loong64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-loong64.zip.dgst) |
+| `Xray-linux-mips32.zip` | 27.2 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-mips32.zip) |
+| `Xray-linux-mips32.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-mips32.zip.dgst) |
+| `Xray-linux-mips32le.zip` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-mips32le.zip) |
+| `Xray-linux-mips32le.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-mips32le.zip.dgst) |
+| `Xray-linux-mips64.zip` | 18.2 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-mips64.zip) |
+| `Xray-linux-mips64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-mips64.zip.dgst) |
+| `Xray-linux-mips64le.zip` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-mips64le.zip) |
+| `Xray-linux-mips64le.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-mips64le.zip.dgst) |
+| `Xray-linux-ppc64.zip` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-ppc64.zip) |
+| `Xray-linux-ppc64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-ppc64.zip.dgst) |
+| `Xray-linux-ppc64le.zip` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-ppc64le.zip) |
+| `Xray-linux-ppc64le.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-ppc64le.zip.dgst) |
+| `Xray-linux-riscv64.zip` | 19.2 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-riscv64.zip) |
+| `Xray-linux-riscv64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-riscv64.zip.dgst) |
+| `Xray-linux-s390x.zip` | 19.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-s390x.zip) |
+| `Xray-linux-s390x.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-linux-s390x.zip.dgst) |
+| `Xray-macos-64.zip` | 19.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-macos-64.zip) |
+| `Xray-macos-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-macos-64.zip.dgst) |
+| `Xray-macos-arm64-v8a.zip` | 18.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-macos-arm64-v8a.zip) |
+| `Xray-macos-arm64-v8a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-macos-arm64-v8a.zip.dgst) |
+| `Xray-openbsd-32.zip` | 18.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-openbsd-32.zip) |
+| `Xray-openbsd-32.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-openbsd-32.zip.dgst) |
+| `Xray-openbsd-64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-openbsd-64.zip) |
+| `Xray-openbsd-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-openbsd-64.zip.dgst) |
+| `Xray-openbsd-arm32-v7a.zip` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-openbsd-arm32-v7a.zip) |
+| `Xray-openbsd-arm32-v7a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-openbsd-arm32-v7a.zip.dgst) |
+| `Xray-openbsd-arm64-v8a.zip` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-openbsd-arm64-v8a.zip) |
+| `Xray-openbsd-arm64-v8a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-openbsd-arm64-v8a.zip.dgst) |
+| `Xray-win7-32.zip` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-win7-32.zip) |
+| `Xray-win7-32.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-win7-32.zip.dgst) |
+| `Xray-win7-64.zip` | 19.9 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-win7-64.zip) |
+| `Xray-win7-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-win7-64.zip.dgst) |
+| `Xray-windows-32.zip` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-windows-32.zip) |
+| `Xray-windows-32.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-windows-32.zip.dgst) |
+| `Xray-windows-64.zip` | 19.9 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-windows-64.zip) |
+| `Xray-windows-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-windows-64.zip.dgst) |
+| `Xray-windows-arm64-v8a.zip` | 18.4 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-windows-arm64-v8a.zip) |
+| `Xray-windows-arm64-v8a.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/XTLS/Xray-core/Xray-windows-arm64-v8a.zip.dgst) |
+
+---
+
 <div id="anonvector--slipnet"></div>
 
 ### anonvector--SlipNet
