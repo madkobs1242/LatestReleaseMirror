@@ -4,6 +4,84 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ## 📦 Latest Releases
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
+
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.0.18-fdroid_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_universal.apk) |
+| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+| `v2rayNG_2.0.18_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_universal.apk) |
+
+---
+
+<div id="karingx--karing"></div>
+
+### KaringX--karing
+
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
+
+| File | Size | Download |
+|------|------|----------|
+| `karing_1.2.18.2102_android_arm64-v8a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm64-v8a.apk) |
+| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
+| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
+
+---
+
+<div id="nulllatency--flowdriver"></div>
+
+### NullLatency--FlowDriver
+
+🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
+| `flow-driver-v0.0.4-darwin-arm64.zip` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-arm64.zip) |
+| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
+| `flow-driver-v0.0.4-windows-amd64.zip` | 9.5 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-windows-amd64.zip) |
+
+---
+
+<div id="sagernet--sing-box"></div>
+
+### SagerNet--sing-box
+
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
+
+| File | Size | Download |
+|------|------|----------|
+| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
+| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
+| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
+| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
+| `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
+| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
+
+---
+
+<div id="anonvector--slipnet"></div>
+
+### anonvector--SlipNet
+
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `SlipNet-v2.5.3-full-release-arm64-v8a.apk` | 25.6 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.3-full-release-armeabi-v7a.apk` | 24.8 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-armeabi-v7a.apk) |
+| `SlipNet-v2.5.3-full-release-universal.apk` | 54.6 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-universal.apk) |
+| `SlipNet-v2.5.3-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.3-lite-release-armeabi-v7a.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk) |
+| `SlipNet-v2.5.3-lite-release-universal.apk` | 22.5 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-universal.apk) |
+
+---
+
 <div id="masterking32--masterdnsvpn"></div>
 
 ### masterking32--MasterDnsVPN
@@ -13,6 +91,63 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 | File | Size | Download |
 |------|------|----------|
 | `MasterDnsVPN_Client_MacOS_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.zip) |
+
+---
+
+<div id="net2share--vaydns"></div>
+
+### net2share--vaydns
+
+🔗 [source](https://github.com/net2share/vaydns) – [<code><small>v0.2.8</small></code>](https://github.com/net2share/vaydns/releases/tag/v0.2.8)
+
+| File | Size | Download |
+|------|------|----------|
+| `vaydns-client-darwin-amd64` | 9.2 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/net2share/vaydns/vaydns-client-darwin-amd64) |
+| `vaydns-client-darwin-amd64.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/net2share/vaydns/vaydns-client-darwin-amd64.sha256) |
+| `vaydns-client-darwin-arm64` | 7.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/net2share/vaydns/vaydns-client-darwin-arm64) |
+| `vaydns-client-darwin-arm64.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/net2share/vaydns/vaydns-client-darwin-arm64.sha256) |
+| `vaydns-client-windows-amd64.exe` | 9.3 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/net2share/vaydns/vaydns-client-windows-amd64.exe) |
+| `vaydns-client-windows-amd64.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/net2share/vaydns/vaydns-client-windows-amd64.exe.sha256) |
+
+---
+
+<div id="termux--termux-app"></div>
+
+### termux--termux-app
+
+🔗 [source](https://github.com/termux/termux-app) – [<code><small>v0.118.3</small></code>](https://github.com/termux/termux-app/releases/tag/v0.118.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `termux-app_v0.118.3+github-debug_arm64-v8a.apk` | 33.4 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_arm64-v8a.apk) |
+| `termux-app_v0.118.3+github-debug_armeabi-v7a.apk` | 30.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_armeabi-v7a.apk) |
+
+---
+
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
+
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.1</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-android-arm64-v8a-v1.9.1.apk` | 18.0 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.1.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.1.apk` | 15.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.1.apk) |
+| `mhrv-rs-android-universal-v1.9.1.apk` | 38.9 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.1.apk) |
+| `mhrv-rs-android-x86-v1.9.1.apk` | 18.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.1.apk) |
+| `mhrv-rs-android-x86_64-v1.9.1.apk` | 18.9 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.1.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
+| `mhrv-rs-linux-musl-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
+| `mhrv-rs-macos-amd64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
+| `mhrv-rs-macos-amd64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 4.3 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.0 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-raspbian-armhf.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
 
 
