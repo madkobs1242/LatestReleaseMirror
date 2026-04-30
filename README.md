@@ -4,7 +4,15 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ## 📦 Latest Releases
 <!-- RELEASES_START -->
+<div id="masterking32--masterdnsvpn"></div>
 
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.04.12.234117-978faee</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.04.12.234117-978faee)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_MacOS_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.zip) |
 <!-- RELEASES_END -->
 
 
