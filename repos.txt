@@ -1,4 +1,3 @@
-XTLS/Xray-core
 therealaleph/MasterHttpRelayVPN-RUST
 NullLatency/FlowDriver
 SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
