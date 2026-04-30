@@ -12,7 +12,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 | File | Size | Download |
 |------|------|----------|
-| `MasterDnsVPN_Client_MacOS_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.zip) |
+| `MasterDnsVPN_Client_MacOS_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/madkobs1242/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.zip) |
 <!-- RELEASES_END -->
 
 
